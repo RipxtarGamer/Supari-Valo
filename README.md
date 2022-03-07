@@ -24,15 +24,11 @@ https://github.com/RipxtarGamer/Supari-Valo/releases/download/v1/Supari.Valo.Kek
 ------------
 
 ### View:
-![](https://i.ibb.co/YQfg77D/mainmenu.png)
+![](https://i.imgur.com/fVSNKbw.png)
 
-![](https://i.ibb.co/NW1LGcf/settings.png)
+![](https://i.imgur.com/KfnZIMV.png)
 
-![](https://i.ibb.co/fvk1r5z/checkers.png)
 
-![](https://i.ibb.co/1GYYvLn/cui.png)
-
-![](https://i.ibb.co/y8vPjVs/log.png)
 ------------
 
 
